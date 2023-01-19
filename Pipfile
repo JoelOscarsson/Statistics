@@ -10,6 +10,7 @@ seaborn = "*"
 numpy = "*"
 matplotlib = "*"
 black = "*"
+statsmodels = "*"
 
 [dev-packages]
 
